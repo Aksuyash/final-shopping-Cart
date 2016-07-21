@@ -1,0 +1,9 @@
+8601
+Phone : It is a smart phone, most reliable ever
+1.99
+pf01
+Car : It is an automobile that can take you from point A to point B
+2.99
+pf02
+Book : It is a five subjects notebook
+0.99
